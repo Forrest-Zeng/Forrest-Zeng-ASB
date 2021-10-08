@@ -394,7 +394,7 @@ span.post-read-more a:hover {
 .intro {
 	background-image: url(https://c.tenor.com/u9XnPveDa9AAAAAM/rick-rickroll.gif?);
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: auto;
   background-position: center;
 	padding: 10rem 0;
 	margin-top: -60px;
