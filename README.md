@@ -1,3 +1,3 @@
-## Official Irvine Coding Club Website Repository!
+## Forrest Zeng ASB Campaign Website
 
-Learn more on our website: [https://irvinecoding.club](https://irvinecoding.club)
+
